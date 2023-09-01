@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T16:18:26.228Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="9tdFWORIIBRSCFA_LHlw" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T16:40:47.150Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="C0MFa-FM6ahOnzhohyYF" version="21.7.1" type="github">
   <diagram name="Página-1" id="tlx05CtD6t4nKpp1lsWZ">
     <mxGraphModel dx="1674" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,9 +33,6 @@
         </mxCell>
         <mxCell id="WyyBkXOLirh3etXSY0A9-35" value="&lt;div&gt;&lt;b&gt;Peça &lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Código&lt;/div&gt;&lt;div&gt;Descrição&lt;/div&gt;&lt;div&gt;Preço&lt;/div&gt;&lt;div&gt;Quantidade&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="350" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="WyyBkXOLirh3etXSY0A9-38" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="125" y="658" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0VX8GNFoNlM_amIT4pYe-2" value="Ter" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="574" y="370" width="80" height="80" as="geometry" />
